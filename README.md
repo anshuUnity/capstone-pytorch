@@ -1,4 +1,4 @@
-Sure! Below is a sample README file for your GitHub repository that outlines the project, including dataset information, model architecture, training process, and usage instructions.
+Below is a README file for my GitHub repository that outlines the project, including dataset information, model architecture, training process, and usage instructions.
 
 ```markdown
 # Food-101 Image Classification Using PyTorch
